@@ -18,7 +18,11 @@ Keras-Preprocessing==1.1.2
 matplotlib==3.3.2
 numpy==1.18.5
 opencv-python==4.4.0.46
+packaging==20.4
+pandocfilters==1.4.2
 Pillow==7.2.0
+pyrsistent==0.17.3
+PyYAML==5.3.1
 requests==2.22.0
 requests-oauthlib==1.3.0
 #scikit-image==0.17.2
@@ -29,6 +33,8 @@ tensorboard-plugin-wit==1.7.0
 tensorflow-estimator==2.3.0
 tensorflow-gpu==2.3.0
 tensorflow-gpu-estimator==2.3.0
+termcolor==1.1.0
+unicodecsv==0.14.1
 whitenoise==5.0.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
