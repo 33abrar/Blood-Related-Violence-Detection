@@ -112,7 +112,7 @@ python3-openid==3.2.0
 pytictoc==1.5.0
 pytz==2020.1
 pyvips==2.1.8
-PyWavelets==1.1.1
+#PyWavelets==1.1.1
 pywin32==228
 pywinpty==0.5.7
 PyYAML==5.3.1
