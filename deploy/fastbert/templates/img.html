@@ -1,0 +1,18 @@
+{% extends "hotel_image_form.html" %}
+
+{% block img %}
+{{img_id.hotel_Main_Img}}
+
+<p>My amazing blog
+    {% if vid %}
+        <video width='320' height= '240' controls>        
+            <source src="./media/WithMask/{{img_id.hotel_Main_Img}}" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'> 
+            Your browser does not support the video tag.
+        </video>
+    {% else %}
+        <img src="./media/WithMask/{{img_id.hotel_Main_Img}}" alt="img">
+    {% endif %}    
+
+    
+</p>
+{% endblock %}
