@@ -7,4 +7,4 @@ numpy==1.18.5
 opencv-python==4.4.0.46
 scikit-image==0.17.2
 scipy==1.4.1
-tensorflow==2.3.0
+tensorflow-cpu==2.3.0
