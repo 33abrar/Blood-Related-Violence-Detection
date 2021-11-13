@@ -7,5 +7,6 @@ The problem was to build a model that can detect blood related violence and blur
 This figure shows a demo social media website where the built model was deployed. In this figure, a user uploaded a violence image which contain blood related violence and the model blur the violence scenes before uploading it to the website.
 ![Capture5](https://user-images.githubusercontent.com/55454660/141649136-ab12986b-75ae-4dcb-a882-a2c3ab4a58e2.PNG)
 
-More descriptions about the model and the full code upload very soon.
+More descriptions about the model and the full code upload very soon. 
+<i> Please give a star to this repository and cite the work. Thank you. <i>
 
